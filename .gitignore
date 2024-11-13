@@ -1,0 +1,8 @@
+.pio
+.vscode/
+/Debug
+/Release
+.ld
+.elf
+.map
+.list
